@@ -77,5 +77,5 @@ mvn clean test
 
 ## Authors
 
-* **Lopatnov Ivan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lopatnov Ivan** - *Initial work* - [lopatnoi](https://github.com/lopatnoi)
 
